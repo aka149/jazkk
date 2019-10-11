@@ -1,2 +1,4 @@
 # jazkk
 #numb
+#komb
+#champpi
